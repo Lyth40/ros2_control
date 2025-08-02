@@ -1,0 +1,7 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[31mCMake Error at CMakeLists.txt:14 (install):
+  install does not recognize sub-command DIRECTION
+
+[0m
+-- Configuring incomplete, errors occurred!
+See also "/home/latih/ros2_control/build/my_robot_bringup/CMakeFiles/CMakeOutput.log".

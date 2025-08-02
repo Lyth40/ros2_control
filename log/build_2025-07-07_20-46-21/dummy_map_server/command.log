@@ -1,0 +1,3 @@
+Invoking command in '/home/latih/ros2_control/build/dummy_map_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/demos/dummy_robot/dummy_map_server -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/dummy_map_server
+Invoked command in '/home/latih/ros2_control/build/dummy_map_server' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/demos/dummy_robot/dummy_map_server -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/dummy_map_server
+Invoking command in '/home/latih/ros2_control/build/dummy_map_server': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/latih/ros2_control/build/dummy_map_server -- -j16 -l16

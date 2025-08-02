@@ -1,0 +1,33 @@
+[0.009s] Invoking command in '/home/latih/ros2_control/build/serial': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/serial -- -j16 -l16
+[0.054s] [ 42%] Built target gtest
+[0.055s] [ 42%] Built target serial
+[0.055s] [ 57%] Built target gtest_main
+[0.070s] [ 71%] Built target serial_example
+[0.074s] [100%] Built target serial-test
+[0.074s] [100%] Built target serial-test-timer
+[0.081s] Invoked command in '/home/latih/ros2_control/build/serial' returned '0': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/serial -- -j16 -l16
+[0.082s] Invoking command in '/home/latih/ros2_control/build/serial': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --install /home/latih/ros2_control/build/serial
+[0.087s] -- Install configuration: ""
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/lib/libserial.a
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/include/serial/serial.h
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/include/serial/v8stdint.h
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/library_path.sh
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/library_path.dsv
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/ament_index/resource_index/package_run_dependencies/serial
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/ament_index/resource_index/parent_prefix_path/serial
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/ament_prefix_path.sh
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/ament_prefix_path.dsv
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/path.sh
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/environment/path.dsv
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/local_setup.bash
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/local_setup.sh
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/local_setup.zsh
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/local_setup.dsv
+[0.087s] -- Installing: /home/latih/ros2_control/install/serial/share/serial/package.dsv
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/ament_index/resource_index/packages/serial
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/cmake/ament_cmake_export_libraries-extras.cmake
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/cmake/serialConfig.cmake
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/cmake/serialConfig-version.cmake
+[0.087s] -- Up-to-date: /home/latih/ros2_control/install/serial/share/serial/package.xml
+[0.089s] Invoked command in '/home/latih/ros2_control/build/serial' returned '0': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --install /home/latih/ros2_control/build/serial

@@ -1,0 +1,10 @@
+/home/latih/ros2_control/build/motor_test/CMakeFiles/uninstall.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/motor_test_uninstall.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/test_con.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/test.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/edit_cache.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/rebuild_cache.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/list_install_components.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/install.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/install/local.dir
+/home/latih/ros2_control/build/motor_test/CMakeFiles/install/strip.dir

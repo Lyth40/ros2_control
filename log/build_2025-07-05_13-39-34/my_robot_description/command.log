@@ -1,0 +1,3 @@
+Invoking command in '/home/latih/ros2_control/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/my_robot_description
+Invoked command in '/home/latih/ros2_control/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/my_robot_description
+Invoking command in '/home/latih/ros2_control/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/latih/ros2_control/build/my_robot_description -- -j16 -l16

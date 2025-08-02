@@ -1,0 +1,1 @@
+Invoking command in '/home/latih/ros2_control/build/motor_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/motor_test -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/motor_test

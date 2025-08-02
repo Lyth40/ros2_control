@@ -1,0 +1,97 @@
+[0.216s] Invoking command in '/home/latih/ros2_control/build/demo_nodes_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/demos/demo_nodes_cpp -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/demo_nodes_cpp
+[0.492s] -- The C compiler identification is GNU 11.4.0
+[0.492s] -- The CXX compiler identification is GNU 11.4.0
+[0.492s] -- Detecting C compiler ABI info
+[0.492s] -- Detecting C compiler ABI info - done
+[0.492s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.493s] -- Detecting C compile features
+[0.493s] -- Detecting C compile features - done
+[0.493s] -- Detecting CXX compiler ABI info
+[0.493s] -- Detecting CXX compiler ABI info - done
+[0.493s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.493s] -- Detecting CXX compile features
+[0.493s] -- Detecting CXX compile features - done
+[0.493s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.566s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.679s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.721s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.728s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.736s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.751s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.768s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.818s] -- Found rcl: 5.3.9 (/opt/ros/humble/share/rcl/cmake)
+[0.850s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.854s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.944s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.973s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.016s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.034s] -- Looking for pthread.h
+[1.099s] -- Looking for pthread.h - found
+[1.099s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.169s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.170s] -- Found Threads: TRUE  
+[1.178s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[1.235s] -- Found rclcpp_components: 16.0.12 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.260s] -- Setting executor of one_off_timer to rclcpp::executors::SingleThreadedExecutor
+[1.260s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.267s] -- Setting executor of reuse_timer to rclcpp::executors::SingleThreadedExecutor
+[1.267s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.283s] -- Setting executor of list_parameters to rclcpp::executors::SingleThreadedExecutor
+[1.283s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.283s] -- Setting executor of parameter_blackboard to rclcpp::executors::SingleThreadedExecutor
+[1.283s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.284s] -- Setting executor of set_and_get_parameters to rclcpp::executors::SingleThreadedExecutor
+[1.284s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.284s] -- Setting executor of parameter_events_async to rclcpp::executors::SingleThreadedExecutor
+[1.284s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.284s] -- Setting executor of even_parameters_node to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor of set_parameters_callback to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor of add_two_ints_server to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor of add_two_ints_client_async to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor of introspection_service to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor of introspection_client to rclcpp::executors::SingleThreadedExecutor
+[1.285s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor of content_filtering_publisher to rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor of content_filtering_subscriber to rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor of talker to rclcpp::executors::SingleThreadedExecutor
+[1.286s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.288s] -- Setting executor of talker_loaned_message to rclcpp::executors::SingleThreadedExecutor
+[1.288s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.290s] -- Setting executor of talker_serialized_message to rclcpp::executors::SingleThreadedExecutor
+[1.290s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.291s] -- Setting executor of listener to rclcpp::executors::SingleThreadedExecutor
+[1.291s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.293s] -- Setting executor of listener_serialized_message to rclcpp::executors::SingleThreadedExecutor
+[1.293s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.295s] -- Setting executor of listener_best_effort to rclcpp::executors::SingleThreadedExecutor
+[1.295s] -- Setting executor non-default value rclcpp::executors::SingleThreadedExecutor
+[1.298s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.392s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.407s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.413s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.413s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.413s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.414s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.432s] -- Found PythonExtra: .so  
+[1.466s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.468s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.469s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/latih/ros2_control/src/demos/demo_nodes_cpp/include>
+[1.469s] -- Configured cppcheck exclude dirs and/or files: 
+[1.471s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.471s] -- Configured cpplint exclude dirs and/or files: 
+[1.471s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.472s] -- Added test 'lint_cmake' to check CMake code style
+[1.472s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.474s] -- Added test 'uncrustify' to check C / C++ code style
+[1.474s] -- Configured uncrustify additional arguments: 
+[1.475s] -- Added test 'xmllint' to check XML markup files
+[1.476s] -- Configuring done
+[1.558s] -- Generating done
+[1.596s] -- Build files have been written to: /home/latih/ros2_control/build/demo_nodes_cpp

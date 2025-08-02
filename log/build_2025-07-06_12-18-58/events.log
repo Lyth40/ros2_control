@@ -1,0 +1,21 @@
+[0.000000] (-) TimerEvent: {}
+[0.000140] (-) JobUnselected: {'identifier': 'my_robot_bringup'}
+[0.000176] (-) JobUnselected: {'identifier': 'my_robot_description'}
+[0.000202] (-) JobUnselected: {'identifier': 'ros2_control_demo_description'}
+[0.000225] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_1'}
+[0.000247] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_10'}
+[0.000269] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_11'}
+[0.000291] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_12'}
+[0.000313] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_13'}
+[0.000334] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_14'}
+[0.000355] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_15'}
+[0.000376] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_2'}
+[0.000397] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_3'}
+[0.000418] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_4'}
+[0.000441] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_5'}
+[0.000462] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_6'}
+[0.000483] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_7'}
+[0.000504] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_8'}
+[0.000525] (-) JobUnselected: {'identifier': 'ros2_control_demo_example_9'}
+[0.000546] (-) JobUnselected: {'identifier': 'ros2_control_demos'}
+[0.000569] (-) EventReactorShutdown: {}

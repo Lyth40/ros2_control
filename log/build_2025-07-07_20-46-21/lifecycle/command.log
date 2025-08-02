@@ -1,0 +1,2 @@
+Invoking command in '/home/latih/ros2_control/build/lifecycle': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/demos/lifecycle -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/lifecycle
+Invoked command in '/home/latih/ros2_control/build/lifecycle' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/demos/lifecycle -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/lifecycle

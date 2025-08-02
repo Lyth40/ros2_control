@@ -1,0 +1,31 @@
+[0.010s] Invoking command in '/home/latih/ros2_control/build/my_robot_hardware': CMAKE_PREFIX_PATH=/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/motor_test:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/my_robot_hardware -- -j16 -l16
+[0.030s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.124s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.148s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.150s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.155s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.162s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.172s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.196s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.197s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.301s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.348s] -- Found serial: 1.2.1 (/home/latih/ros2_control/install/serial/share/serial/cmake)
+[0.350s] -- Found hardware_interface: 2.50.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.457s] -- Found controller_manager: 2.50.0 (/opt/ros/humble/share/controller_manager/cmake)
+[0.537s] -- Configuring done
+[0.538s] [31mCMake Error at CMakeLists.txt:18 (add_executable):
+[0.538s]   Cannot find source file:
+[0.538s] 
+[0.538s]     src/test_con.cpp
+[0.538s] 
+[0.538s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[0.538s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[0.539s] 
+[0.539s] [0m
+[0.539s] [31mCMake Error at CMakeLists.txt:18 (add_executable):
+[0.539s]   No SOURCES given to target: test_con
+[0.539s] 
+[0.539s] [0m
+[0.539s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[0.544s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.546s] Invoked command in '/home/latih/ros2_control/build/my_robot_hardware' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/motor_test:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/my_robot_hardware -- -j16 -l16

@@ -1,0 +1,11 @@
+[0.011s] Invoking command in '/home/latih/ros2_control/build/motor_test': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/latih/ros2_control/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/latih/ros2_control/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/latih/ros2_control/build/motor_test -- -j16 -l16
+[0.047s] [35m[1mConsolidate compiler generated dependencies of target test_con[0m
+[0.065s] [ 50%] [32mBuilding CXX object CMakeFiles/test_con.dir/src/test_con.cpp.o[0m
+[1.655s] [100%] [32m[1mLinking CXX executable test_con[0m
+[1.719s] /usr/bin/ld: CMakeFiles/test_con.dir/src/test_con.cpp.o: in function `main':
+[1.719s] test_con.cpp:(.text+0x64): undefined reference to `MotorDriver::setup(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int, int)'
+[1.722s] collect2: error: ld returned 1 exit status
+[1.723s] gmake[2]: *** [CMakeFiles/test_con.dir/build.make:152: test_con] Error 1
+[1.723s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/test_con.dir/all] Error 2
+[1.723s] gmake: *** [Makefile:146: all] Error 2
+[1.725s] Invoked command in '/home/latih/ros2_control/build/motor_test' returned '2': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/serial:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble:/home/latih/ros2_control/install/serial:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/latih/ros2_control/install/serial/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/latih/ros2_control/build/motor_test -- -j16 -l16

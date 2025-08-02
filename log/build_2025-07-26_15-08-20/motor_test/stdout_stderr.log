@@ -1,0 +1,9 @@
+[35m[1mConsolidate compiler generated dependencies of target test_con[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/test_con.dir/src/test_con.cpp.o[0m
+[100%] [32m[1mLinking CXX executable test_con[0m
+/usr/bin/ld: CMakeFiles/test_con.dir/src/test_con.cpp.o: in function `main':
+test_con.cpp:(.text+0xe1): undefined reference to `MotorDriver::setup(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int, int)'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/test_con.dir/build.make:152: test_con] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/test_con.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

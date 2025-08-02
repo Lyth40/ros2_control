@@ -1,0 +1,20 @@
+[0.013s] Invoking command in '/home/latih/ros2_control/build/my_robot_hardware': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/my_robot_hardware -- -j16 -l16
+[0.057s] Invoked command in '/home/latih/ros2_control/build/my_robot_hardware' returned '0': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --build /home/latih/ros2_control/build/my_robot_hardware -- -j16 -l16
+[0.058s] Invoking command in '/home/latih/ros2_control/build/my_robot_hardware': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --install /home/latih/ros2_control/build/my_robot_hardware
+[0.068s] -- Install configuration: ""
+[0.068s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/ament_index/resource_index/package_run_dependencies/my_robot_hardware
+[0.068s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/ament_index/resource_index/parent_prefix_path/my_robot_hardware
+[0.068s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/environment/ament_prefix_path.sh
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/environment/ament_prefix_path.dsv
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/environment/path.sh
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/environment/path.dsv
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/local_setup.bash
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/local_setup.sh
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/local_setup.zsh
+[0.069s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/local_setup.dsv
+[0.070s] -- Installing: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/package.dsv
+[0.070s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/ament_index/resource_index/packages/my_robot_hardware
+[0.070s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/cmake/my_robot_hardwareConfig.cmake
+[0.070s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/cmake/my_robot_hardwareConfig-version.cmake
+[0.070s] -- Up-to-date: /home/latih/ros2_control/install/my_robot_hardware/share/my_robot_hardware/package.xml
+[0.086s] Invoked command in '/home/latih/ros2_control/build/my_robot_hardware' returned '0': CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/motor_test:/opt/ros/humble:/home/latih/ros2_control/install/serial:/home/latih/ros2_control/install/my_robot_hardware:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description /usr/bin/cmake --install /home/latih/ros2_control/build/my_robot_hardware

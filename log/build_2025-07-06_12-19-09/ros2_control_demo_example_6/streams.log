@@ -1,0 +1,82 @@
+[0.061s] Invoking command in '/home/latih/ros2_control/build/ros2_control_demo_example_6': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/ros2_control_demos/example_6 -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/ros2_control_demo_example_6
+[0.139s] -- The CXX compiler identification is GNU 11.4.0
+[0.143s] -- Detecting CXX compiler ABI info
+[0.216s] -- Detecting CXX compiler ABI info - done
+[0.226s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.226s] -- Detecting CXX compile features
+[0.226s] -- Detecting CXX compile features - done
+[0.230s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.370s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.451s] -- Found hardware_interface: 2.50.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.490s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.495s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.504s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.517s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.533s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.747s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.750s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.777s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.814s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.817s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.833s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.834s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.844s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.855s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.864s] -- Looking for C++ include pthread.h
+[1.016s] -- Looking for C++ include pthread.h - found
+[1.016s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.139s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.140s] -- Found Threads: TRUE  
+[1.187s] -- Found ament_cmake_pytest: 1.3.11 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[2.374s] -- Configuring done
+[2.399s] -- Generating done
+[2.405s] -- Build files have been written to: /home/latih/ros2_control/build/ros2_control_demo_example_6
+[2.420s] Invoked command in '/home/latih/ros2_control/build/ros2_control_demo_example_6' returned '0': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake /home/latih/ros2_control/src/ros2_control_demos/example_6 -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/ros2_control_demo_example_6
+[2.421s] Invoking command in '/home/latih/ros2_control/build/ros2_control_demo_example_6': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/latih/ros2_control/build/ros2_control_demo_example_6 -- -j16 -l16
+[2.508s] [ 50%] [32mBuilding CXX object CMakeFiles/ros2_control_demo_example_6.dir/hardware/rrbot_actuator.cpp.o[0m
+[6.668s] [100%] [32m[1mLinking CXX shared library libros2_control_demo_example_6.so[0m
+[6.859s] [100%] Built target ros2_control_demo_example_6
+[6.876s] Invoked command in '/home/latih/ros2_control/build/ros2_control_demo_example_6' returned '0': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --build /home/latih/ros2_control/build/ros2_control_demo_example_6 -- -j16 -l16
+[6.882s] Invoking command in '/home/latih/ros2_control/build/ros2_control_demo_example_6': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/latih/ros2_control/build/ros2_control_demo_example_6
+[7.214s] -- Install configuration: ""
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/ros2_control_demo_example_6.xml
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/include/ros2_control_demo_example_6
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/include/ros2_control_demo_example_6/ros2_control_demo_example_6
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/include/ros2_control_demo_example_6/ros2_control_demo_example_6/rrbot_actuator.hpp
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/launch
+[7.214s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/launch/view_robot.launch.py
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/ros2_control
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/ros2_control/rrbot_modular_actuators.ros2_control.xacro
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/urdf
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/urdf/rrbot_modular_actuators.urdf.xacro
+[7.215s] -- Up-to-date: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/launch
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/launch/test_forward_position_controller.launch.py
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/launch/rrbot_modular_actuators.launch.py
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/config
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/config/rrbot_modular_actuators.yaml
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/config/rrbot_forward_position_publisher.yaml
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/lib/libros2_control_demo_example_6.so
+[7.215s] -- Set runtime path of "/home/latih/ros2_control/install/ros2_control_demo_example_6/lib/libros2_control_demo_example_6.so" to ""
+[7.215s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/library_path.sh
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/library_path.dsv
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_example_6
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_example_6
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/ament_prefix_path.sh
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/ament_prefix_path.dsv
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/path.sh
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/environment/path.dsv
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/local_setup.bash
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/local_setup.sh
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/local_setup.zsh
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/local_setup.dsv
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/package.dsv
+[7.216s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ament_index/resource_index/packages/ros2_control_demo_example_6
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/ros2_control_demo_example_6
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/export_ros2_control_demo_example_6Export.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/export_ros2_control_demo_example_6Export-noconfig.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/ament_cmake_export_targets-extras.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/ament_cmake_export_dependencies-extras.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/ros2_control_demo_example_6Config.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/cmake/ros2_control_demo_example_6Config-version.cmake
+[7.217s] -- Installing: /home/latih/ros2_control/install/ros2_control_demo_example_6/share/ros2_control_demo_example_6/package.xml
+[7.239s] Invoked command in '/home/latih/ros2_control/build/ros2_control_demo_example_6' returned '0': AMENT_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/latih/ros2_control/install/ros2_control_demo_description:/home/latih/ros2_control/install/my_robot_bringup:/home/latih/ros2_control/install/my_robot_description:/opt/ros/humble /usr/bin/cmake --install /home/latih/ros2_control/build/ros2_control_demo_example_6

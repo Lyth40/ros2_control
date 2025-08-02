@@ -1,0 +1,2 @@
+Invoking command in '/home/latih/ros2_control/build/serial': /usr/bin/cmake /home/latih/ros2_control/src/serial -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/serial
+Invoked command in '/home/latih/ros2_control/build/serial' returned '1': /usr/bin/cmake /home/latih/ros2_control/src/serial -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/latih/ros2_control/install/serial

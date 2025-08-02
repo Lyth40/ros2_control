@@ -1,0 +1,40 @@
+[0.897s] Invoking command in '/home/latih/ros2_control/src/demos/action_tutorials/action_tutorials_py': PYTHONPATH=/home/latih/ros2_control/build/action_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/action_tutorials_py build --build-base /home/latih/ros2_control/build/action_tutorials_py/build install --record /home/latih/ros2_control/build/action_tutorials_py/install.log --single-version-externally-managed install_data
+[1.277s] running egg_info
+[1.277s] creating ../../../../build/action_tutorials_py/action_tutorials_py.egg-info
+[1.277s] writing ../../../../build/action_tutorials_py/action_tutorials_py.egg-info/PKG-INFO
+[1.277s] writing dependency_links to ../../../../build/action_tutorials_py/action_tutorials_py.egg-info/dependency_links.txt
+[1.277s] writing entry points to ../../../../build/action_tutorials_py/action_tutorials_py.egg-info/entry_points.txt
+[1.277s] writing requirements to ../../../../build/action_tutorials_py/action_tutorials_py.egg-info/requires.txt
+[1.277s] writing top-level names to ../../../../build/action_tutorials_py/action_tutorials_py.egg-info/top_level.txt
+[1.277s] writing manifest file '../../../../build/action_tutorials_py/action_tutorials_py.egg-info/SOURCES.txt'
+[1.277s] reading manifest file '../../../../build/action_tutorials_py/action_tutorials_py.egg-info/SOURCES.txt'
+[1.278s] writing manifest file '../../../../build/action_tutorials_py/action_tutorials_py.egg-info/SOURCES.txt'
+[1.278s] running build
+[1.278s] running build_py
+[1.278s] creating /home/latih/ros2_control/build/action_tutorials_py/build
+[1.278s] creating /home/latih/ros2_control/build/action_tutorials_py/build/lib
+[1.278s] creating /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py
+[1.278s] copying action_tutorials_py/fibonacci_action_client.py -> /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py
+[1.278s] copying action_tutorials_py/__init__.py -> /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py
+[1.278s] copying action_tutorials_py/fibonacci_action_server.py -> /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py
+[1.278s] running install
+[1.278s] running install_lib
+[1.278s] creating /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py
+[1.278s] copying /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py/fibonacci_action_client.py -> /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py
+[1.279s] copying /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py/__init__.py -> /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py
+[1.279s] copying /home/latih/ros2_control/build/action_tutorials_py/build/lib/action_tutorials_py/fibonacci_action_server.py -> /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py
+[1.279s] byte-compiling /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py/fibonacci_action_client.py to fibonacci_action_client.cpython-310.pyc
+[1.279s] byte-compiling /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py/__init__.py to __init__.cpython-310.pyc
+[1.279s] byte-compiling /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py/fibonacci_action_server.py to fibonacci_action_server.cpython-310.pyc
+[1.279s] running install_data
+[1.279s] creating /home/latih/ros2_control/install/action_tutorials_py/share/ament_index
+[1.279s] creating /home/latih/ros2_control/install/action_tutorials_py/share/ament_index/resource_index
+[1.279s] creating /home/latih/ros2_control/install/action_tutorials_py/share/ament_index/resource_index/packages
+[1.279s] copying resource/action_tutorials_py -> /home/latih/ros2_control/install/action_tutorials_py/share/ament_index/resource_index/packages
+[1.279s] copying package.xml -> /home/latih/ros2_control/install/action_tutorials_py/share/action_tutorials_py
+[1.279s] running install_egg_info
+[1.279s] Copying ../../../../build/action_tutorials_py/action_tutorials_py.egg-info to /home/latih/ros2_control/install/action_tutorials_py/lib/python3.10/site-packages/action_tutorials_py-0.37.1-py3.10.egg-info
+[1.280s] running install_scripts
+[1.280s] Installing fibonacci_action_client script to /home/latih/ros2_control/install/action_tutorials_py/lib/action_tutorials_py
+[1.280s] Installing fibonacci_action_server script to /home/latih/ros2_control/install/action_tutorials_py/lib/action_tutorials_py
+[1.280s] writing list of installed files to '/home/latih/ros2_control/build/action_tutorials_py/install.log'
